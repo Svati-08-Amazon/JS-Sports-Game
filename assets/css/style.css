@@ -13,7 +13,7 @@ body {
 
   box-sizing: border-box;
   position: relative;
-  background-color: turquoise;
+  background-color: yellow;
   height: 200px;
   width: 200px;
   left: 100px;
@@ -28,7 +28,7 @@ body {
   font-size: large;
   box-sizing: border-box;
   position: relative;
-  background-color: lightseagreen;
+  background-color: blueviolet;
   height: 200px;
   width: 200px;
   right: 100px;
@@ -46,7 +46,7 @@ h1 {
   font-size: xx-large;
   box-sizing: border-box;
   position: relative;
-  background-color: violet;
+  background-color: crimson;
   height: 200px;
   width: 200px;
   box-sizing: border-box;
