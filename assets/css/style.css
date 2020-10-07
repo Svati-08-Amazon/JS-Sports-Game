@@ -18,7 +18,7 @@ body {
   width: 200px;
   left: 100px;
   box-sizing: border-box;
-  border: 5px solid whitesmoke;
+  border: 5px solid white;
   margin: auto;
 }
 .right {
